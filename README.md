@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sofiabuenos
 - 👀 I’m interested in learning and exploring new technologies to build creative and engaging projects.
-- 🌱 I’m currently learning CSS and HTML, and my next step is to dive into JavaScript.
-- 💞️ I’m looking to collaborate on projects that challenge me to grow and learn, especially in the areas of front-end development and web design.
+- 🌱 I’m currently enrolled at 42 Porto building up a solid base in C, Linux, and overall programming skills by completing their CommonCore programme.
+- 💞️ I’m looking to collaborate on projects that challenge me to grow and learn. Check what I've been doing on my profile 😃
 - 📫 You can reach me through my LinkedIn profile: www.linkedin.com/in/sofiabuenos
 
 I would love to connect with you 😃
