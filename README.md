@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @sofiabuenos
-- 👀 I’m interested in learning and exploring new technologies to build creative and engaging projects.
-- 🌱 I’m currently enrolled at 42 Porto building up a solid base in C, Linux, and overall programming skills by completing their CommonCore programme.
-- 💞️ I’m looking to collaborate on projects that challenge me to grow and learn. Check what I've been doing on my profile 😃
-- 📫 You can reach me through my LinkedIn profile: www.linkedin.com/in/sofiabuenos
+# Hi, I'm Sofia Bueno 👋
 
-I would love to connect with you 😃
+🖥️ Software development student at 42 Porto
+🤑 Former economist
+❤️‍🔥 Tech intusiast
+🥋 Jiu-jitsu lover
+🚀 Excited to collaborate
+
+## 🤓 Technical Skills
+- **Languages**: C, Shell Scripting, SQL, HTML, CSS, JavaScript
+- **Tools**: Git, VSCode
+- **Methodologies**: SCRUM, Agile
+
+## 📬 How to Reach Me
+- [LinkedIn](https://www.linkedin.com/in/sofiabuenos)
+- [Email](mailto:sofiabuenos@outlook.com)
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=MicrosoftSQLServer)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+
+![Sofia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofiabuenos&show_icons=true&theme=dracula)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=sofiabuenos)
 
 
 <!---
