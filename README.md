@@ -1,10 +1,10 @@
 # Hi, I'm Sofia Bueno 👋
 
-🖥️ Software development student at 42 Porto\n
-🤑 Former economist
-❤️‍🔥 Tech intusiast
-🥋 Jiu-jitsu lover
-🚀 Excited to collaborate
+🖥️ Software development student at 42 Porto  
+🤑 Former economist  
+❤️‍🔥 Tech intusiast  
+🥋 Jiu-jitsu lover  
+🚀 Excited to collaborate  
 
 ## 🤓 Technical Skills
 - **Languages**: C, Shell Scripting, SQL, HTML, CSS, JavaScript
