@@ -1,6 +1,6 @@
 # Hi, I'm Sofia Bueno 👋
 
-🖥️ Software development student at 42 Porto
+🖥️ Software development student at 42 Porto\n
 🤑 Former economist
 ❤️‍🔥 Tech intusiast
 🥋 Jiu-jitsu lover
@@ -21,9 +21,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-
-![Sofia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sofiabuenos&show_icons=true&theme=dracula)
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=sofiabuenos)
 
 
 <!---
