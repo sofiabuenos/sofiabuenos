@@ -7,7 +7,7 @@
 🚀 Excited to collaborate  
 
 ## 🤓 Hard Skills
-- **Languages**: C, Shell Scripting, SQL, HTML, CSS, JavaScript
+- **Languages**: C, C++, Shell Scripting, SQL, HTML, CSS, JavaScript
 - **Tools**: Git, VSCode
 - **Methodologies**: SCRUM, Agile
 
